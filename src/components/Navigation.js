@@ -25,6 +25,9 @@ const Navigation = () => {
                     <li className="nav-list-item">
                         <Link to="/dashboard">Dasboard</Link>
                     </li>
+                    <li className="nav-list-item">
+                        <Link to="/import">Import</Link>
+                    </li>
                 </ul>
             </Toolbar>
         </AppBar>
